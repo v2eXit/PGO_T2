@@ -13,6 +13,6 @@ public class Task2 {
     }
     public static void main(String[] args) {
         int[] arr = {3, 3, 3, 2, 2, 2, 2};
-        System.out.println(findDominant(arr)); // Output: 3
+        System.out.println(findDominant(arr));
     }
 }
